@@ -22,8 +22,8 @@ Results describe equally weighted counties and exclude taxes, insurance, and oth
 ## Repository Structure
 
 ```text
+README.md             # Project summary
 Mortgage-Affordability-Analysis/
-├── README.md             # Project summary
 ├── REPORT.md             # Full analysis report
 ├── requirements.txt      # Python dependencies
 ├── data/
