@@ -49,7 +49,7 @@ to
 
 **21.84% in 2024**
 
-This represents an increase of approximately **8.90 percentage points**.
+This represents an increase of approximately **8.91 percentage points**.
 
 Approximately **98.95% of counties** in the balanced panel experienced an increase in modeled payment burden between 2015 and 2024.
 
@@ -419,8 +419,9 @@ Connecticut geography changes created 24 unmatched county-year observations duri
 ## Repository Structure
 
 ```text
+README.md
 Mortgage-Affordability-Analysis/
-├── README.md
+├── REPORT.md
 ├── .gitignore
 ├── requirements.txt
 ├── data/
