@@ -14,7 +14,7 @@ Results describe equally weighted counties and exclude taxes, insurance, and oth
 
 ## Full Report & Dashboard
 
-- **[Read the full analysis report](REPORT.md)** for methodology, data preparation, validation, findings, and limitations.
+- **[Read the full analysis report](Mortgage-Affordability-Analysis/REPORT.md)** for methodology, data preparation, validation, findings, and limitations.
 - **[Explore the interactive Tableau dashboard](https://public.tableau.com/views/MortgageAffordabilityFinal/MortgageAffordability)** to view trends and geographic differences.
 
 ![Mortgage Affordability Dashboard](images/dashboard.png)
